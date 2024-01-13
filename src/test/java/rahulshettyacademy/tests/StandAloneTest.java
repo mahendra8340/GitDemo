@@ -61,6 +61,7 @@ public class StandAloneTest {
 	Assert.assertTrue(confirmMessage.equalsIgnoreCase("THANKYOU FOR THE ORDER."));
 	driver.close();
 	System.out.println("For GIT Demo1");
+	System.out.println("For GIT Branching practice");
 	
 	
 
