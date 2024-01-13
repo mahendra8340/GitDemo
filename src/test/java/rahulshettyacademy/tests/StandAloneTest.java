@@ -60,6 +60,7 @@ public class StandAloneTest {
 	String confirmMessage = driver.findElement(By.cssSelector(".hero-primary")).getText();
 	Assert.assertTrue(confirmMessage.equalsIgnoreCase("THANKYOU FOR THE ORDER."));
 	driver.close();
+	System.out.println("For GIT Demo");
 	
 	
 
