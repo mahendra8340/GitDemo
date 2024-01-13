@@ -62,6 +62,7 @@ public class StandAloneTest {
 	driver.close();
 	System.out.println("For GIT Demo1");
 	System.out.println("For GIT Branching practice");
+	System.out.println("For GIT Branching practice by Git X");
 	
 	
 
